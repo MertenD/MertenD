@@ -10,7 +10,7 @@
 - 🤖 Developing use case-specific custom generative AI solutions at work.
 - 💡 Deepening my expertise in building robust APIs and databases — recently implemented a business process engine within a database.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,next,supabase,postgres,tailwind,docker" />
