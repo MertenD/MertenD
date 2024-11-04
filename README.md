@@ -3,8 +3,6 @@
 **Fullstack Software Engineer at Mercedes-Benz Tech Innovation**  
 **Master's Student in Software Engineering at Ulm University**
 
-Welcome to my GitHub profile! I'm passionate about developing interactive web applications and custom generative AI solutions.
-
 ## 🚀 About Me
 
 - 🌐 Experienced in full-stack development with modern web technologies.
