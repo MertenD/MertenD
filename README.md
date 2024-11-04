@@ -22,4 +22,12 @@
 
 ## 🛠 Current Projects
 
-Currently, I am working on **[ProcessFlow](https://processflow.mertendieckmann.de)**, a SaaS platform for building and managing gamified business processes.
+Currently, I am working on:
+
+### [ProcessFlow](https://processflow.mertendieckmann.de)
+
+A SaaS platform for building and managing gamified business processes.
+
+### [BierTurnier](https://BierTurnier.de)
+
+An app for creating and tracking beer pong tournaments.
