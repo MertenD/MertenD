@@ -29,5 +29,6 @@ Currently, I am working on:
 A SaaS platform for building and managing gamified business processes.
 
 ### [BierTurnier](https://BierTurnier.de)
+<img src="[public/icon.png](https://bierturnier.de/icon.png)" align="left" width="25%" padding-right="350">
 
 An app for creating and tracking beer pong tournaments together with friends.
