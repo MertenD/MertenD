@@ -24,11 +24,18 @@
 
 Currently, I am working on:
 
-### [ProcessFlow](https://processflow.mertendieckmann.de)
+<p>
+  <img src="https://processflow.mertendieckmann.de/icon.png" width="50" align="left" hspace="10">
+  <p>
+    <h3><a href="https://processflow.mertendieckmann.de">ProcessFlow</a></h3>
+    A SaaS platform for building and managing gamified business processes.
+  </p>
+</p>
 
-A SaaS platform for building and managing gamified business processes.
-
-### [BierTurnier](https://BierTurnier.de)
-<img src="[public/icon.png](https://bierturnier.de/icon.png)" align="left" width="25%" padding-right="350">
-
-An app for creating and tracking beer pong tournaments together with friends.
+<p>
+  <img src="https://bierturnier.de/icon.png" width="50" align="left" hspace="10">
+  <p>
+    <h3><a href="https://BierTurnier.de">BierTurnier</a></h3>
+    An app for creating and tracking beer pong tournaments together with friends.
+  </p>
+</p>
