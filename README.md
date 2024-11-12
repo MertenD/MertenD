@@ -43,6 +43,6 @@ Currently, I am working on:
 ## 📊 Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertenD&theme=darcula&hide_border=true" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertenD&theme=darcula&show_icons=true&hide_border=true&layout=compact" height=200>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertenD&theme=darcula&hide_border=true" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertenD&theme=darcula&show_icons=true&hide_border=true&layout=compact" height=150>
 </p>
