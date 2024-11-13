@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,express,py" />
+  <img src="https://skillicons.dev/icons?i=idea,kotlin,java,express,py" />
 </p>
 
 ## 🛠 Current Projects
