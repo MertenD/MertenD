@@ -35,7 +35,7 @@ Currently, I am working on:
 <p>
   <img src="https://luzides-traeumen-buch.de/android-chrome-192x192.png" width="50" align="left" hspace="10">
   <p>
-    <h3><a href="https://luzide-traeumen-buch.de">Luzides Träumen Buch</a></h3>
+    <h3><a href="https://luzides-traeumen-buch.de">Luzides Träumen Buch</a></h3>
     A website for my own book "Kontrolliere Deine Träume: Ein praktischer Leitfaden zum Luziden Träumen"
   </p>
 </p>
