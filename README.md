@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🌐 Experienced in full-stack development with modern web technologies.
-- 🎓 Currently pursuing a Master's degree in Software Engineering.
+- 🎓 Recently completed my Master's degree in Software Engineering.
 - 🤖 Developing use case-specific custom generative AI solutions at work.
 
 ## 🔧 Technologies
