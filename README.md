@@ -1,7 +1,6 @@
 # Hey there! 👋 I'm Merten
 
-**Fullstack Software Engineer at Mercedes-Benz Tech Innovation**  
-**Master's Student in Software Engineering at Ulm University**
+**Fullstack Software Engineer at Mercedes-Benz Tech Innovation**
 
 ## 🚀 About Me
 
