@@ -2,6 +2,8 @@
 
 **Fullstack Software Engineer at Mercedes-Benz Tech Innovation**
 
+![Commit History](game.gif)
+
 ## 🚀 About Me
 
 - 🌐 Experienced in full-stack development with modern web technologies.
@@ -47,8 +49,6 @@ Currently, I am working on:
 </p>
 
 ## 📊 Stats
-
-![Commit History](game.gif)
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertenD&theme=darcula&hide_border=true" height=150>
