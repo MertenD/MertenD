@@ -22,7 +22,7 @@
 
 ## 🛠 Current Projects
 
-Currently, I am working on:
+Some of my projects:
 
 <p>
   <img src="https://processflow.mertendieckmann.de/icon.png" width="50" align="left" hspace="10">
