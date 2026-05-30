@@ -20,33 +20,13 @@
   <img src="https://skillicons.dev/icons?i=idea,kotlin,java,spring,py,githubactions" />
 </p>
 
-## 🛠 Current Projects
+## 💻 Portfolio
 
-Some of my projects:
+Check out [my portfolio](https://merten.tech) for an overview of my projects and education
 
-<p>
-  <img src="https://processflow.mertendieckmann.de/icon.png" width="50" align="left" hspace="10">
-  <p>
-    <h3><a href="https://processflow.mertendieckmann.de" target="_blank">ProcessFlow</a></h3>
-    A SaaS platform for building and managing gamified business processes.
-  </p>
-</p>
-
-<p>
-  <img src="https://luzides-traeumen-buch.de/android-chrome-192x192.png" width="50" align="left" hspace="10">
-  <p>
-    <h3><a href="https://luzides-traeumen-buch.de" target="_blank">Luzides Träumen Buch</a></h3>
-    A website for my own book "Kontrolliere Deine Träume: Ein praktischer Leitfaden zum Luziden Träumen"
-  </p>
-</p>
-
-<p>
-  <img src="https://bierturnier.de/icon.png" width="50" align="left" hspace="10">
-  <p>
-    <h3><a href="https://BierTurnier.de" target="_blank">BierTurnier</a></h3>
-    An app for creating and tracking beer pong tournaments together with friends.
-  </p>
-</p>
+<a href="https://merten.tech" target="_blank">
+  <img src="https://merten.tech/images/portfolio-overview.png" alt="Portfolio Overview" width="850" />
+</a>
 
 ## 📊 Stats
 
