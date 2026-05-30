@@ -13,11 +13,11 @@
 ## 🔧 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,supabase,postgres,tailwind,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,next,angular,postgres,tailwind,docker" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,kotlin,java,spring,py,githubactions" />
+  <img src="https://skillicons.dev/icons?i=idea,kotlin,java,spring,py,githubactions,kubernetes" />
 </p>
 
 ## 💻 Portfolio
